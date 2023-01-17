@@ -1814,7 +1814,7 @@
         </div>
         <div class="footer-wrapper">
             <div class="footer-section f-section-1">
-                <p class="">Copyright © 2022 <a target="_blank" href="https://designreset.com/">Ebrimax</a>, All rights reserved.</p>
+                <p class="">Copyright © 2022 <a target="_blank" href="https://ebrimax.riomaxempire.com">Ebrimax</a>, All rights reserved.</p>
             </div>
         </div>
     </div>
